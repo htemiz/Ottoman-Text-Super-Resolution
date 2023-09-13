@@ -16,7 +16,7 @@ Please cite the paper as follows:
   <td >
   <p ><b ><span >Parameters<o:p></o:p></span></b></p>
   </td>
-  <td style="colspan:3;>
+  <td style="colspan:2;>
   <p ><b ><span >Training Time (hours)<o:p></o:p></span></b></p>
   </td>
  </tr>
