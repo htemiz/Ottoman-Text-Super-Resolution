@@ -11,153 +11,81 @@ Please cite the paper as follows:
 <table >
  <tbody><tr >
   <td >
-  <p ><b>Models<o:p></o:p></span></b></p>
+  <p ><b><span>Models<o:p></o:p></span></b></p>
   </td>
-  <td width="71" style="width:53.3pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-ansi-language:EN-US">Parameters<o:p></o:p></span></b></p>
+  <td >
+  <p ><b ><span >Parameters<o:p></o:p></span></b></p>
   </td>
-  <td width="166" colspan="3" style="width:124.3pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-ansi-language:EN-US">Training Time (hours)<o:p></o:p></span></b></p>
+  <td >
+  <p ><b ><span >Training Time (hours)<o:p></o:p></span></b></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:1;height:14.15pt">
-  <td width="62" style="width:46.35pt;border:none;mso-border-top-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+ <tr >
+  <td>
+  <p ><span><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="71" style="width:53.3pt;border:none;mso-border-top-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+  <td >
+  <p ><span ><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="56" style="width:42.1pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">Scale-2<o:p></o:p></span></p>
+  <td >
+  <p ><span >Scale-2<o:p></o:p></span></p>
   </td>
-  <td width="53" style="width:39.7pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">Scale-3<o:p></o:p></span></p>
+  <td >
+  <p ><span >Scale-3<o:p></o:p></span></p>
   </td>
-  <td width="57" style="width:42.5pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">Scale-4<o:p></o:p></span></p>
+  <td >
+  <p ><span>Scale-4<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:2;height:14.15pt">
-  <td width="62" style="width:46.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">DECUSR<o:p></o:p></span></p>
+ <tr >
+  <td>
+  <p ><span >DECUSR<o:p></o:p></span></p>
   </td>
-  <td width="71" style="width:53.3pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">40,995<o:p></o:p></span></p>
+  <td >
+  <p><span >40,995<o:p></o:p></span></p>
   </td>
-  <td width="56" style="width:42.1pt;border:none;mso-border-top-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">27.839<o:p></o:p></span></p>
+  <td >
+  <p ><span >27.839<o:p></o:p></span></p>
   </td>
-  <td width="53" style="width:39.7pt;border:none;mso-border-top-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">22.790<o:p></o:p></span></p>
+  <td >
+  <p ><span >22.790<o:p></o:p></span></p>
   </td>
-  <td width="57" style="width:42.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">21.822<o:p></o:p></span></p>
+  <td>
+  <p ><span >21.822<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:3;height:14.15pt">
-  <td width="62" style="width:46.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">SRCNN<o:p></o:p></span></p>
+ <tr >
+  <td >
+  <p ><span >SRCNN<o:p></o:p></span></p>
   </td>
-  <td width="71" style="width:53.3pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">20,099<o:p></o:p></span></p>
+  <td >
+  <p ><span >20,099<o:p></o:p></span></p>
   </td>
-  <td width="56" style="width:42.1pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">40.234<o:p></o:p></span></p>
+  <td >
+  <p ><span l>40.234<o:p></o:p></span></p>
   </td>
-  <td width="53" style="width:39.7pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">42.607<o:p></o:p></span></p>
+  <td >
+  <p ><span l>42.607<o:p></o:p></span></p>
   </td>
-  <td width="57" style="width:42.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">41.801 <o:p></o:p></span></p>
+  <td >
+  <p ><span >41.801 <o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:4;height:14.15pt">
-  <td width="62" style="width:46.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">VDSR<o:p></o:p></span></p>
+ <tr >
+  <td >
+  <p ><span >VDSR<o:p></o:p></span></p>
   </td>
-  <td width="71" style="width:53.3pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">668,227<o:p></o:p></span></p>
+  <td >
+  <p ><span >668,227<o:p></o:p></span></p>
   </td>
-  <td width="56" style="width:42.1pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">26.303<o:p></o:p></span></p>
+  <td >
+  <p ><span >26.303<o:p></o:p></span></p>
   </td>
-  <td width="53" style="width:39.7pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">40.605<o:p></o:p></span></p>
+  <td >
+  <p ><span >40.605<o:p></o:p></span></p>
   </td>
-  <td width="57" style="width:42.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">40.147<o:p></o:p></span></p>
+  <td >
+  <p ><span >40.147<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:14.15pt">
