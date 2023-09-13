@@ -8,11 +8,7 @@ Please cite the paper as follows:
 *Temiz, H. (2023). Enhancing the resolution of historical Ottoman texts using deep learning-based super-resolution techniques. Traitement du Signal, Vol. 40, No. 3, pp. 1075-1082* 
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
-|||
-|||
-|![](images/image009.jpg){:width="200px"}|![](images/image010.jpg)]|
-
-&nbsp;
+Two example images of historical Ottoman text
 <table style="border-style:hidden;">
  <tr><td width=350 > <img src="./images/image009.jpg"> </td>
   <td width=350 > <img src="./images/image010.jpg"> </td>
