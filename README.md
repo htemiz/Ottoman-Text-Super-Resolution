@@ -1,1 +1,1 @@
-# Ottoman-Texts-Super-Resolution
+# Super Resolution of Historical Ottoman Text Documents
