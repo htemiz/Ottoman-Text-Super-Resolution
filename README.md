@@ -8,14 +8,10 @@ Please cite the paper as follows:
 *Temiz, H. (2023). Enhancing the resolution of historical Ottoman texts using deep learning-based super-resolution techniques. Traitement du Signal, Vol. 40, No. 3, pp. 1075-1082* 
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
-<table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none">
- <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-  <td width="62" style="width:46.35pt;border:none;border-bottom:solid windowtext 1.0pt;
-  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-ansi-language:EN-US">Models<o:p></o:p></span></b></p>
+<table >
+ <tbody><tr >
+  <td >
+  <p ><b>Models<o:p></o:p></span></b></p>
   </td>
   <td width="71" style="width:53.3pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
