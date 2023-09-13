@@ -634,3 +634,29 @@ Please cite the paper as follows:
  </tr>
 </tbody></table>
 
+
+
+<table>
+ <caption></caption>
+ <tr>
+  <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
+ </tr>
+ <tr>
+  <td rowspan=3></td>
+   <td>2x</td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+ </tr>
+  <tr>
+  <td rowspan=3></td>
+   <td>2x</td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+   <td><img src=""> </td>
+ </tr>
+ 
+</table>
+
