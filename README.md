@@ -12,7 +12,7 @@ Please cite the paper as follows:
 
 
 |||
-|!['']('images/image_009.jpg')|![''](images/image_010.jpg)|
+|!['']('images/image_009.jpg')|![](images/image_010.jpg)|
 
 
 <table >
