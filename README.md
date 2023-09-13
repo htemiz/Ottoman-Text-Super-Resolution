@@ -9,7 +9,7 @@ Please cite the paper as follows:
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
 <table >
- <caption>The number of parameters and training times of the algorithms.</caption>caption
+ <caption>The number of parameters and training times of the algorithms.</caption>
  <tbody><tr >
   <td >
   <p ><b><span>Models<o:p></o:p></span></b></p>
