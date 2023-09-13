@@ -9,7 +9,7 @@ Please cite the paper as follows:
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
 &nbsp;
-<table style="border:none">
+<table style="border-style:hidden">
  <tr><td width=350> <img src="./images/image009.jpg"> </td>
   <td width=350> <img src="./images/image010.jpg"> </td>
  </tr>
