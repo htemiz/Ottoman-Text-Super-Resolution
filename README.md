@@ -15,10 +15,10 @@ Please cite the paper as follows:
 <table >
  <caption> The number of parameters and training times of the algorithms.</caption>
  <tbody><tr >
-  <td >
+  <td rowspan="2" >
   <p ><b><span>Models<o:p></o:p></span></b></p>
   </td>
-  <td >
+  <td rowspan="2"  >
   <p ><b ><span >Parameters<o:p></o:p></span></b></p>
   </td>
   <td colspan="3">
