@@ -9,7 +9,6 @@ Please cite the paper as follows:
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
 |||
-
 |![](images/image009.jpg){:width="200px}|![](images/image010.jpg)]|
 
 &nbsp;
