@@ -9,10 +9,10 @@ Please cite the paper as follows:
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
 &nbsp;
-
-
-|-|-|
-|![](images/image009.jpg) | ![](images/image_010.jpg) |
+<table >
+ <tr><td width=250>![](images/image009.jpg)</td><td width=250></td></tr>
+ 
+</table>
 
 
 <table >
