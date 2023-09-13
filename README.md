@@ -11,8 +11,8 @@ Please cite the paper as follows:
 &nbsp;
 
 
-|||
-|![](images/image009.jpg)|![](images/image_010.jpg)|
+|-|-|
+|![](images/image009.jpg) | ![](images/image_010.jpg) |
 
 
 <table >
