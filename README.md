@@ -1,4 +1,4 @@
-Repository for supporting files and outcomes for my paper entitled *__"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"*__ published in 
+Repository for supporting files and outcomes for my paper entitled __*"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"*__ published in 
 the journal *'Traitement du Signal'*
 Citte the paper as follows:
 
