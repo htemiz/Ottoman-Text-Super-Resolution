@@ -11,6 +11,9 @@ Please cite the paper as follows:
 &nbsp;
 
 
+|||
+|!['']('/images/image_1')|!['']('/images/image_1')|
+
 
 <table >
  <caption><strong>The number of parameters and training times of the algorithms</strong></caption>
