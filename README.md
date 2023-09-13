@@ -114,6 +114,7 @@ Please cite the paper as follows:
  mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-prop-change:msi 20230228T1428;
  width:228.3pt !msorm;border-collapse:collapse !msorm;mso-yfti-tbllook:1184 !msorm;
  mso-padding-alt:0cm 3.5pt 0cm 3.5pt !msorm">
+ <caption><strong>Performances of the algorithms</strong></caption>
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.15pt;mso-prop-change:
   msi 20230228T1428">
   <td width="36" style="width:27.0pt;width:1.0cm !msorm;border-top:solid windowtext 1.0pt;
