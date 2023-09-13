@@ -18,7 +18,7 @@ Please cite the paper as follows:
   <td rowspan="2" >
   <p ><b><span>Models<o:p></o:p></span></b></p>
   </td>
-  <td rowspan="2"  >
+  <td >
   <p ><b ><span >Parameters<o:p></o:p></span></b></p>
   </td>
   <td colspan="3">
