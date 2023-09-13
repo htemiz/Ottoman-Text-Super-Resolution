@@ -315,12 +315,7 @@ Please cite the paper as follows:
   </td>
  </tr>
  <tr style="mso-yfti-irow:4;height:11.35pt;mso-prop-change:msi 20230228T1428">
-  <td width="36" valign="top" style="width:27.0pt;width:1.0cm !msorm;padding:0cm 3.5pt 0cm 3.5pt 0cm 3.5pt 0cm 3.5pt !msorm;
-  height:11.35pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US"><o:p>&nbsp;</o:p></span></p>
-  </td>
+
   <td width="57" nowrap="" valign="bottom" style="width:42.55pt;width:39.7pt !msorm;
   padding:0cm 3.5pt 0cm 3.5pt 0cm 3.5pt 0cm 3.5pt !msorm;height:11.35pt">
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
