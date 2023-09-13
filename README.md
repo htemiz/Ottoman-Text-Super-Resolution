@@ -10,7 +10,7 @@ Please cite the paper as follows:
 
 &nbsp;
 <table >
- <tr><td width=250> [](images/image009.jpg) </td><td width=250></td></tr>
+ <tr><td width=250> ![adsf](images/image009.jpg) </td><td width=250></td></tr>
  
 </table>
 
