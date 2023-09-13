@@ -88,34 +88,21 @@ Please cite the paper as follows:
   <p ><span >40.147<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:14.15pt">
-  <td width="62" style="width:46.35pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">RED-Net<o:p></o:p></span></p>
+ <tr >
+  <td >
+  <p ><span >RED-Net<o:p></o:p></span></p>
   </td>
-  <td width="71" style="width:53.3pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:8.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:EN-US">1,037,507<o:p></o:p></span></p>
+  <td >
+  <p ><span >1,037,507<o:p></o:p></span></p>
   </td>
-  <td width="56" style="width:42.1pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">90.047<o:p></o:p></span></p>
+  <td >
+  <p ><span >90.047<o:p></o:p></span></p>
   </td>
-  <td width="53" style="width:39.7pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">89.099<o:p></o:p></span></p>
+  <td >
+  <p ><span >89.099<o:p></o:p></span></p>
   </td>
-  <td width="57" style="width:42.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.15pt">
-  <p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span lang="EN-US" style="font-size:9.0pt;
-  mso-bidi-font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-ansi-language:
-  EN-US">91.0284<o:p></o:p></span></p>
+  <td >
+  <p ><span >91.0284<o:p></o:p></span></p>
   </td>
  </tr>
 </tbody></table>
