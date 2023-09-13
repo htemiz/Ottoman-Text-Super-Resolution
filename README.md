@@ -8,8 +8,9 @@ Please cite the paper as follows:
 *Temiz, H. (2023). Enhancing the resolution of historical Ottoman texts using deep learning-based super-resolution techniques. Traitement du Signal, Vol. 40, No. 3, pp. 1075-1082* 
 [https://doi.org/10.18280/ts.400323](https://doi.org/10.18280/ts.400323)
 
+&nbsp
 <table >
- <caption>The number of parameters and training times of the algorithms.</caption>
+ <caption> The number of parameters and training times of the algorithms.</caption>
  <tbody><tr >
   <td >
   <p ><b><span>Models<o:p></o:p></span></b></p>
