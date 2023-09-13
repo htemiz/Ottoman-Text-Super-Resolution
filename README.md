@@ -10,8 +10,8 @@ Please cite the paper as follows:
 
 &nbsp;
 <table border-style="hidden">
- <tr><td width=350> <img src="./images/image009.jpg"> </td>
-  <td width=350> <img src="./images/image010.jpg"> </td>
+ <tr><td width=350 border-style="hidden"> <img src="./images/image009.jpg"> </td>
+  <td width=350 border-style="hidden"> <img src="./images/image010.jpg"> </td>
  </tr>
 </table>
 
