@@ -13,7 +13,7 @@ Please cite the paper as follows:
 
 
 <table >
- <caption> **The number of parameters and training times of the algorithms**</caption>
+ <caption><strong>The number of parameters and training times of the algorithms</strong></caption>
  <tbody><tr >
   <td rowspan="2"  >
   <p ><b><span>Models<o:p></o:p></span></b></p>
