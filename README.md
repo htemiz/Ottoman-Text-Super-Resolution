@@ -1,3 +1,29 @@
+
+<style>
+.divTable
+{
+display: table;
+width:auto;
+background-color:#eee;
+border:1px solid #666666;
+border-spacing:1px;
+}
+.divRow
+{
+width:auto;
+display:table-row;
+}
+.divCell
+{
+width:150px;
+float:left;
+display:table-column;
+background-color: rgb(212, 209, 209);
+}
+</style>
+
+
+
 Repository for supporting files and outcomes for my paper entitled ___"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"___  published in the journal ___Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )___
 
 
@@ -707,34 +733,6 @@ Please cite the paper as follows:
 </table>
 
 
-<html>
-<head>
-
-<style>
-.divTable
-{
-display: table;
-width:auto;
-background-color:#eee;
-border:1px solid #666666;
-border-spacing:1px;
-}
-.divRow
-{
-width:auto;
-display:table-row;
-}
-.divCell
-{
-width:150px;
-float:left;
-display:table-column;
-background-color: rgb(212, 209, 209);
-}
-</style>
-</head>
-<body>
-
 <div class="divTable">
 <div class="headerRow">
     <div class="divCell">&nbsp;</div>
@@ -767,10 +765,6 @@ background-color: rgb(212, 209, 209);
     <div class="divCell"><img src="images/rednet_img_02_4x.png"></div>
 </div>
 </div>
-
-</body>
-</html>
-
 
 
 
