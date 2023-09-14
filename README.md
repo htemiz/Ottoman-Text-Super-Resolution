@@ -648,7 +648,7 @@ Please cite the paper as follows:
  </tr>
  <tr>
     <td style="width:150px;" rowspan=3><img src="images/img_01_ground_truth.png" alt="Reference image">
-        <span>Reference image</span></td>
+        </br><span>Reference image</span></td>
     <td style="width:20px;">2x</td>
     <td><img src="images/decusr_img_01_2x.png"> </td>
     <td><img src="images/srcnn_img_01_2x.png"> </td>
