@@ -11,7 +11,7 @@ Please cite the paper as follows:
 
 
 <table style="border-style:hidden;">
- <caption align='center'>Two example images of historical Ottoman text</caption>
+ <caption align='center'>Two example images of historical Ottoman texts</caption>
  <tr><td width=350 > <img src="./images/image009.jpg"> </td>
   <td width=350 > <img src="./images/image010.jpg"> </td>
  </tr>
