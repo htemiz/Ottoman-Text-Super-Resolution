@@ -24,39 +24,6 @@ background-color: rgb(212, 209, 209);
 
 
 
-<div class="divTable">
-<div class="headerRow">
-    <div class="divCell">&nbsp;</div>
-    <div class="divCell">DECUSR</div>
-    <div class="divCell">SRCNN</div>
-    <div class="divCell">VDSR</div>
-    <div class="divCell">REDNET</div>
-
-</div>
-<div class="divRow">
-    <div class="divCell">&nbsp;</div>
-    <div class="divCell"><img src="images/decusr_img_02_2x.png"></div>
-    <div class="divCell"><img src="images/srcnn_img_02_2x.png"></div>
-    <div class="divCell"><img src="images/vdsr_img_02_2x.png"></div>
-    <div class="divCell"><img src="images/rednet_img_02_2x.png"></div>
-</div>
-<div class="divRow">
-    <div class="divCell"><img src="images/img_02_ground_truth.png" alt="Reference image">
-        </br><span>Reference image</span></div>
-    <div class="divCell"><img src="images/decusr_img_02_3x.png"></div>
-    <div class="divCell"><img src="images/srcnn_img_02_3x.png"></div>
-    <div class="divCell"><img src="images/vdsr_img_02_3x.png"></div>
-    <div class="divCell"><img src="images/rednet_img_02_3x.png"></div>
-</div>
-<div class="divRow">
-    <div class="divCell">&nbsp;</div>
-    <div class="divCell"><img src="images/decusr_img_02_4x.png"></div>
-    <div class="divCell"><img src="images/srcnn_img_02_4x.png"></div>
-    <div class="divCell"><img src="images/vdsr_img_02_4x.png"></div>
-    <div class="divCell"><img src="images/rednet_img_02_4x.png"></div>
-</div>
-</div>
-
 
 
 
@@ -705,7 +672,7 @@ Please cite the paper as follows:
 
 &nbsp;
 
-
+Sample Outputs From A Text Image
 <table style="border:0px solid white; text-align:center;">
  <caption></caption>
  <tr>
@@ -739,7 +706,7 @@ Please cite the paper as follows:
 
 
 
-
+Sample Outputs From Another Text Image
 <table style="border:0px solid white; text-align:center;">
  <caption></caption>
  <tr>
@@ -771,6 +738,9 @@ Please cite the paper as follows:
 
 </table>
 
+
+
+<!--
 
 <div class="divTable">
 <div class="headerRow">
@@ -804,7 +774,4 @@ Please cite the paper as follows:
     <div class="divCell"><img src="images/rednet_img_02_4x.png"></div>
 </div>
 </div>
-
-
-
-
+-->
