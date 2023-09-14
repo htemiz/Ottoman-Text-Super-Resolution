@@ -635,8 +635,13 @@ Please cite the paper as follows:
 </tbody></table>
 
 
+&nbsp;
 
-<table>
+
+&nbsp;
+
+
+<table border="none">
  <caption></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
@@ -657,7 +662,7 @@ Please cite the paper as follows:
     <td><img src="images/rednet_img_01_3x.png"> </td>
  </tr>
   <tr>
-    <td><img src="">4x </td>
+    <td>4x </td>
     <td><img src="images/decusr_img_01_4x.png"> </td>
     <td><img src="images/srcnn_img_01_4x.png"> </td>
     <td><img src="images/vdsr_img_01_4x.png"> </td>
