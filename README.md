@@ -1,35 +1,3 @@
-
-<style>
-.divTable
-{
-display: table;
-width:auto;
-background-color:#eee;
-border:1px solid #666666;
-border-spacing:1px;
-}
-.divRow
-{
-width:auto;
-display:table-row;
-}
-.divCell
-{
-width:150px;
-float:left;
-display:table-column;
-background-color: rgb(212, 209, 209);
-}
-</style>
-
-
-
-
-
-
-
-
-
 Repository for supporting files and outcomes for my paper entitled ___"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"___  published in the journal ___Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )___
 
 
@@ -670,10 +638,8 @@ Please cite the paper as follows:
 &nbsp;
 
 
-**Sample Outputs From A Text Image**
-
 <table style="border:0px solid white; text-align:center;">
- <caption></caption>
+ <caption><b>Sample Outputs From A Text Image></b></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
@@ -707,10 +673,9 @@ Please cite the paper as follows:
 &nbsp;
 
 
-**Sample Outputs From Another Text Image**
 
 <table style="border:0px solid white; text-align:center;">
- <caption>**Sample Outputs From Another Text Image**</caption>
+ <caption><b>Sample Outputs From Another Text Image</b></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
@@ -743,6 +708,30 @@ Please cite the paper as follows:
 
 
 <!--
+
+<style>
+.divTable
+{
+display: table;
+width:auto;
+background-color:#eee;
+border:1px solid #666666;
+border-spacing:1px;
+}
+.divRow
+{
+width:auto;
+display:table-row;
+}
+.divCell
+{
+width:150px;
+float:left;
+display:table-column;
+background-color: rgb(212, 209, 209);
+}
+</style>
+
 
 <div class="divTable">
 <div class="headerRow">
