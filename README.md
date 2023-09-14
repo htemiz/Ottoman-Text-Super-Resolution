@@ -670,9 +670,8 @@ Please cite the paper as follows:
 &nbsp;
 
 
-&nbsp;
+**Sample Outputs From A Text Image**
 
-Sample Outputs From A Text Image
 <table style="border:0px solid white; text-align:center;">
  <caption></caption>
  <tr>
@@ -705,10 +704,13 @@ Sample Outputs From A Text Image
 </table>
 
 
+&nbsp;
 
-Sample Outputs From Another Text Image
+
+**Sample Outputs From Another Text Image**
+
 <table style="border:0px solid white; text-align:center;">
- <caption></caption>
+ <caption>**Sample Outputs From Another Text Image**</caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
