@@ -641,7 +641,7 @@ Please cite the paper as follows:
 &nbsp;
 
 
-<table style="border:0px solid white; text-align: center">
+<table style="border:0px solid white; text-align:center;">
  <caption></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
@@ -675,7 +675,7 @@ Please cite the paper as follows:
 
 
 
-<table style="border:0px solid white; text-align: center">
+<table style="border:0px solid white; text-align:center;">
  <caption></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
@@ -705,3 +705,66 @@ Please cite the paper as follows:
  </tr>
 
 </table>
+
+
+<style>
+.divTable
+{
+display: table;
+width:auto;
+background-color:#eee;
+border:1px solid #666666;
+border-spacing:1px;
+}
+.divRow
+{
+width:auto;
+display:table-row;
+}
+.divCell
+{
+width:150px;
+float:left;
+display:table-column;
+background-color: rgb(212, 209, 209);
+}
+</style>
+
+<div class="divTable">
+<div class="headerRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell">DECUSR</div>
+    <div class="divCell">SRCNN</div>
+    <div class="divCell">VDSR</div>
+    <div class="divCell">REDNET</div>
+
+</div>
+<div class="divRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell"><img src="images/decusr_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_2x.png"></div>
+</div>
+<div class="divRow">
+    <div class="divCell"><img src="images/img_02_ground_truth.png" alt="Reference image">
+        </br><span>Reference image</span></div>
+    <div class="divCell"><img src="images/decusr_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_3x.png"></div>
+</div>
+<div class="divRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell"><img src="images/decusr_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_4x.png"></div>
+</div>
+</div>
+
+
+
+
+
+
