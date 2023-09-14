@@ -641,7 +641,7 @@ Please cite the paper as follows:
 &nbsp;
 
 
-<table style="border:0px solid white;">
+<table style="border:0px solid white; text-align: center">
  <caption></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
@@ -672,3 +672,36 @@ Please cite the paper as follows:
  
 </table>
 
+
+
+
+<table style="border:0px solid white; text-align: center">
+ <caption></caption>
+ <tr>
+  <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
+ </tr>
+ <tr>
+    <td style="width:150px;" rowspan=3><img src="images/img_02_ground_truth.png" alt="Reference image">
+        </br><span>Reference image</span></td>
+    <td style="width:20px;">2x</td>
+    <td><img src="images/decusr_img_02_2x.png"> </td>
+    <td><img src="images/srcnn_img_02_2x.png"> </td>
+    <td><img src="images/vdsr_img_02_2x.png"> </td>
+    <td><img src="images/rednet_img_02_2x.png"> </td>
+ </tr>
+  <tr>
+    <td><img >3x </td>
+    <td><img src="images/decusr_img_02_3x.png"> </td>
+    <td><img src="images/srcnn_img_02_3x.png"> </td>
+    <td><img src="images/vdsr_img_02_3x.png"> </td>
+    <td><img src="images/rednet_img_02_3x.png"> </td>
+ </tr>
+  <tr>
+    <td>4x </td>
+    <td><img src="images/decusr_img_02_4x.png"> </td>
+    <td><img src="images/srcnn_img_02_4x.png"> </td>
+    <td><img src="images/vdsr_img_02_4x.png"> </td>
+    <td><img src="images/rednet_img_02_4x.png"> </td>
+ </tr>
+
+</table>
