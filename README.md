@@ -642,20 +642,26 @@ Please cite the paper as follows:
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
  <tr>
-  <td rowspan=3></td>
-   <td>2x</td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
+    <td rowspan=3></td>
+    <td>2x</td>
+    <td><img src="images/decusr_img_01_2x.png"> </td>
+    <td><img src="images/srcnn_img_01_2x.png"> </td>
+    <td><img src="images/vdsr_img_01_2x.png"> </td>
+    <td><img src="images/rednet_img_01_2x.png"> </td>
  </tr>
   <tr>
-  <td rowspan=3></td>
-   <td>2x</td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
-   <td><img src=""> </td>
+    <td><img >3x </td>
+    <td><img src="images/decusr_img_01_3x.png"> </td>
+    <td><img src="images/srcnn_img_01_3x.png"> </td>
+    <td><img src="images/vdsr_img_01_3x.png"> </td>
+    <td><img src="images/rednet_img_01_3x.png"> </td>
+ </tr>
+  <tr>
+    <td><img src="">4x </td>
+    <td><img src="images/decusr_img_01_4x.png"> </td>
+    <td><img src="images/srcnn_img_01_4x.png"> </td>
+    <td><img src="images/vdsr_img_01_4x.png"> </td>
+    <td><img src="images/rednet_img_01_4x.png"> </td>
  </tr>
  
 </table>
