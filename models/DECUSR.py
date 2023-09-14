@@ -1,0 +1,127 @@
+﻿
+from keras import metrics
+from keras import losses
+from keras.models import Model
+from tensorflow.keras.layers import concatenate as merge
+from tensorflow.keras.layers import Input,  ZeroPadding2D,  LocallyConnected2D, Conv2DTranspose, concatenate, BatchNormalization
+from keras.layers.core import Dense, Dropout, Activation
+from keras.layers.convolutional import Conv2D, UpSampling2D
+from keras.layers.pooling import AveragePooling2D, GlobalAveragePooling2D, MaxPooling2D
+from tensorflow.keras.layers import BatchNormalization
+import keras.backend as K
+from os.path import  dirname, abspath, basename
+from keras.optimizers import Adam, SGD, RMSprop
+
+
+eps = 1.1e-6
+
+# PARAMETER INSTRUCTION RELATED TO SCALE FACTOR #
+"""
+
+SCALE 2:
+        stride=10, inputsize=16
+
+SCALE 3:
+        stride=8, inputsize=12
+
+SCALE 4:
+        stride=6, inputsize=8
+
+"""
+
+
+settings = \
+{
+"activation": "relu",
+'augment':[], # must be any or all lof [90,180,270, 'flipud', 'fliplr', 'flipudlr' ]
+'backend': 'tensorflow',
+'batchsize':256,
+'channels':3,
+'colormode':'RGB', # 'YCbCr' or 'RGB'
+'crop': 0,
+'crop_test': 6,
+'decay':1e-6,
+'dilation_rate':(1,1),
+'decimation': 'bicubic',
+'espatience' : 25,
+'epoch':25,
+'inputsize':16, #
+'interp_compare': 'lanczos',
+'interp_up': 'bicubic',
+'kernel_initializer': 'he_normal',
+'lrate':1e-4,
+'lrpatience': 10,
+'lrfactor' : 0.5,
+'metrics': ["PSNR"],
+'minimumlrate' : 1e-7,
+'modelname':basename(__file__).split('.')[0],
+'noise':'',
+'normalization':['divide', '255.0'], # ['standard', "53.28741141", "40.73203139"],
+'normalizeback': False,
+'normalizeground':False,
+'outputdir':'',
+'scale':2,
+'seed': 19,
+'shuffle' : True,
+'stride':10, # adımın 72 nin 1/3 ü olmasını istiyoruz. yani 24. 4 ölçek için 6 adım çıkışta 24 eder.
+'target_channels': 3,
+'target_cmode' : 'RGB',
+'testpath': [r'D:\calisma\projeler\ottoman\dataset\test'],
+'traindir': r"D:\calisma\projeler\ottoman\dataset\train",
+'upscaleimage': False,
+'valdir': r'D:\calisma\projeler\ottoman\dataset\val',
+'weightpath':'',
+'workingdir': '',
+}
+
+
+def build_model(self, testmode=False):
+    if testmode:
+        input_size = None
+    else:
+        input_size = self.inputsize
+
+    input_shape = (input_size, input_size, self.channels)
+
+    main_input = Input(shape=input_shape, name='main_input')
+    
+    # print("\nKERNEL: ", self.kernel_initializer, "\n")
+
+    pre_block = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(main_input)
+    pre_block = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(pre_block)
+    pre_block = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(pre_block)
+    pre_block = Conv2D(16, (1, 1), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(pre_block)
+
+    upsampler_LC = UpSampling2D(self.scale, name='upsampler_locally_connected')(pre_block)
+    upsampler_direct = UpSampling2D(self.scale)(main_input)
+
+    # REPEATING BLOCKS #
+    block3 = concatenate([upsampler_LC, upsampler_direct])
+    block3 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block3)
+    block3 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block3)
+    block3 = Conv2D(16, (1, 1), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block3)
+
+    block4 = concatenate([upsampler_LC, upsampler_direct, block3])
+    block4 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block4)
+    block4 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block4)
+    block4 = Conv2D(16, (1, 1), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block4)
+
+    block5 = concatenate([upsampler_LC, upsampler_direct, block3, block4])
+    block5 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block5)
+    block5 = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block5)
+    block5 = Conv2D(16, (1, 1), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(block5)
+
+    fourth = concatenate([upsampler_LC, upsampler_direct, block3, block4, block5])
+    fourth = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(fourth)
+    fourth = Conv2D(16, (3, 3), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(fourth)
+    fourth = Conv2D(16, (1, 1), activation=self.activation, kernel_initializer=self.kernel_initializer,  padding='same')(fourth)
+
+    nihai = Conv2D(self.channels, (3, 3), activation=self.lactivation, kernel_initializer=self.kernel_initializer,  padding='same')(fourth)
+
+    model = Model(main_input, outputs=nihai)
+    model.compile(Adam(self.lrate, self.decay), loss=losses.mean_squared_error)
+
+    # model.summary()
+
+    return model
+
