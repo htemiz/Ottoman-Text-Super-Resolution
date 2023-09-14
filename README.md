@@ -9,6 +9,8 @@ Please cite the paper as follows:
 
 
 
+&nbsp;
+
 
 <table style="border-style:hidden;">
  <caption align='center'>Two example images of historical Ottoman texts</caption>
@@ -17,6 +19,8 @@ Please cite the paper as follows:
  </tr>
 </table>
 
+
+&nbsp;
 
 <table >
  <caption><strong>The number of parameters and training times of the algorithms</strong></caption>
@@ -114,6 +118,7 @@ Please cite the paper as follows:
 </tbody></table>
 
 
+&nbsp;
 
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="320" style="width:239.65pt;border-collapse:collapse;mso-yfti-tbllook:1184;
