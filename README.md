@@ -647,7 +647,8 @@ Please cite the paper as follows:
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
  <tr>
-    <td rowspan=3></td>
+    <td rowspan=3><img src="images/img_01_ground_truth.png">
+        <span>Reference image</span></td>
     <td>2x</td>
     <td><img src="images/decusr_img_01_2x.png"> </td>
     <td><img src="images/srcnn_img_01_2x.png"> </td>
