@@ -24,6 +24,45 @@ background-color: rgb(212, 209, 209);
 
 
 
+<div class="divTable">
+<div class="headerRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell">DECUSR</div>
+    <div class="divCell">SRCNN</div>
+    <div class="divCell">VDSR</div>
+    <div class="divCell">REDNET</div>
+
+</div>
+<div class="divRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell"><img src="images/decusr_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_2x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_2x.png"></div>
+</div>
+<div class="divRow">
+    <div class="divCell"><img src="images/img_02_ground_truth.png" alt="Reference image">
+        </br><span>Reference image</span></div>
+    <div class="divCell"><img src="images/decusr_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_3x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_3x.png"></div>
+</div>
+<div class="divRow">
+    <div class="divCell">&nbsp;</div>
+    <div class="divCell"><img src="images/decusr_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/srcnn_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/vdsr_img_02_4x.png"></div>
+    <div class="divCell"><img src="images/rednet_img_02_4x.png"></div>
+</div>
+</div>
+
+
+
+
+
+
+
 Repository for supporting files and outcomes for my paper entitled ___"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"___  published in the journal ___Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )___
 
 
