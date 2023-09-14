@@ -707,6 +707,9 @@ Please cite the paper as follows:
 </table>
 
 
+<html>
+<head>
+
 <style>
 .divTable
 {
@@ -729,6 +732,8 @@ display:table-column;
 background-color: rgb(212, 209, 209);
 }
 </style>
+</head>
+<body>
 
 <div class="divTable">
 <div class="headerRow">
@@ -763,6 +768,8 @@ background-color: rgb(212, 209, 209);
 </div>
 </div>
 
+</body>
+</html>
 
 
 
