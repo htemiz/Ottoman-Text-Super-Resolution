@@ -121,6 +121,24 @@ Please cite the paper as follows:
 &nbsp;
 
 
+<table style="border:0 solid white; text-align:center;">
+ <caption><b>Training Performances of the Algorithms</b></caption>
+ <tr>
+    <td><img src="images/training_performances_2x.png"> </td>
+    <td><img src="images/training_performances_3x.png"> </td>
+    <td><img src="images/training_performances_4x.png"> </td>
+ </tr>
+  <tr>
+    <td><span>2x-Scale</span></td>
+    <td><span>3x-Scale</span></td>
+    <td><span>3x-Scale</span></td>
+ </tr>
+</table>
+
+
+&nbsp;
+
+
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="320" style="width:239.65pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-prop-change:msi 20230228T1428;
  width:228.3pt !msorm;border-collapse:collapse !msorm;mso-yfti-tbllook:1184 !msorm;
@@ -644,7 +662,7 @@ Please cite the paper as follows:
 
 
 <table style="border:0px solid white; text-align:center;">
- <caption><b>Sample Outputs From A Text Image></b></caption>
+ <caption><b>Sample Outputs From A Text Image</b></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
