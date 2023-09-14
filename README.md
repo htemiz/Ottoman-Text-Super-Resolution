@@ -641,7 +641,7 @@ Please cite the paper as follows:
 &nbsp;
 
 
-<table border="none">
+<table style="border:0px solid white;">
  <caption></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
