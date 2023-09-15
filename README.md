@@ -13,7 +13,11 @@ Please cite the paper as follows:
 
 ## Overview
 The following deep learning algorithms are exploited to obtain super-resolved 
-images of Ottoman texts: DECUSR, SRCNN, VDSR, and RED-Net. 
+images of Ottoman texts: 
+>DECUSR
+>SRCNN
+>VDSR
+>RED-Net 
 
 The pre-trained weights of the algorithms are stored in the **weights** folder.
 The algorithms were implemented with [DeepSR] framework. The implementations of the algorithms
