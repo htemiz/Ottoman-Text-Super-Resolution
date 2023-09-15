@@ -61,6 +61,8 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 
 &nbsp;
 
+## Some Info on Training
+
 <table >
  <caption><strong>The number of parameters and training times of the algorithms</strong></caption>
  <tbody><tr >
@@ -160,9 +162,6 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 &nbsp;
 
 
-## Results
-
-
 <table style="border:0 solid white; text-align:center;">
  <caption><b>Training Performances of the Algorithms</b></caption>
  <tr>
@@ -180,6 +179,9 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 
 &nbsp;
 
+
+
+## Results
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="320" style="width:239.65pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 3.5pt 0cm 3.5pt;mso-prop-change:msi 20230228T1428;
