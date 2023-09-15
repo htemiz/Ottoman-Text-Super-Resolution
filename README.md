@@ -31,15 +31,25 @@ and visit [PyPI](https://pypi.org/project/DeepSR/) repository to download. To in
 
 `pip install DeepSR`
 
+## How To Run algorithms
+Each model files is of DeepSR-fashion file. They can be re-trained by issuing similar command as below:
+(e.g., re-train DECUSR for 2x scale with pre-trained weights)
+`python -m DeepSR.DeepSR --modelfile models/DECUSR.py --train --scale 2 
+--weightpath weights/DECUSR_2x.h5 `
+
+To test the algorithms, remove `--train` command parameter and include
+
+`--testpath <path to your test files>` 
+
+PLease use the appropriate weights for a particular scale. 
+
+Much more explanations and samples on how to use DeepSR can be found its GitHub page. 
 
 ## Dataset
 The dataset consists of 966 text images with of very large dimensions
 (several thousand pixels in both width and height). It is not served in this page as this paltform is not
 dedicated for such purposes. However any requests for the data are welcommed. Please contact me via
 [htemiz@artvin.edu.tr](mailto:htemiz@artvin.edu.tr)  
-
-
-&nbsp;
 
 
 <table style="border-style:hidden;">
