@@ -61,7 +61,7 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 
 &nbsp;
 
-## Some Info on Training
+## Training
 
 <table >
  <caption><strong>The number of parameters and training times of the algorithms</strong></caption>
