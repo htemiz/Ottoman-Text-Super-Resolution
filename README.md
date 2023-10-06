@@ -745,7 +745,7 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 
 
 <table style="border:0px solid white; text-align:center;">
- <caption><b>Sample Outputs From Another Text Image</b></caption>
+ <caption><b>Sample Outputs of Another Text Image</b></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
