@@ -1,5 +1,5 @@
 
-Repository for supporting files and outcomes for my paper entitled 
+Repository for support files and outcomes for my paper entitled 
 ["Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"](https://iieta.org/journals/ts/paper/10.18280/ts.400323) published in the journal
 [Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )](https://iieta.org/journals/ts/paper/10.18280/ts.400323)
 
