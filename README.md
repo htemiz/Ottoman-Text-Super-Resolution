@@ -172,7 +172,7 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
   <tr>
     <td><span>2x-Scale</span></td>
     <td><span>3x-Scale</span></td>
-    <td><span>3x-Scale</span></td>
+    <td><span>4x-Scale</span></td>
  </tr>
 </table>
 
