@@ -1,4 +1,7 @@
-Repository for supporting files and outcomes for my paper entitled ___"Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"___  published in the journal ___Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )___
+
+Repository for support files and outcomes for my paper entitled 
+["Enhancing the Resolution of Historical Ottoman Texts Using Deep Learning-Based SuperResolution Techniques"](https://iieta.org/journals/ts/paper/10.18280/ts.400323) published in the journal
+[Traitement du Signal ( ISSN: 0765-0019 (print);  1958-5608 (online) )](https://iieta.org/journals/ts/paper/10.18280/ts.400323)
 
 
 Please cite the paper as follows:
@@ -157,7 +160,7 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
   </td>
  </tr>
 </tbody></table>
-
+ 
 
 &nbsp;
 
@@ -172,13 +175,13 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
   <tr>
     <td><span>2x-Scale</span></td>
     <td><span>3x-Scale</span></td>
-    <td><span>3x-Scale</span></td>
+    <td><span>4x-Scale</span></td>
  </tr>
 </table>
 
 
 &nbsp;
-
+ 
 
 
 ## Results
@@ -742,7 +745,7 @@ dedicated for such purposes. However any requests for the data are welcommed. Pl
 
 
 <table style="border:0px solid white; text-align:center;">
- <caption><b>Sample Outputs From Another Text Image</b></caption>
+ <caption><b>Sample Outputs of Another Text Image</b></caption>
  <tr>
   <td></td> <td></td> <td>DECUSR</td> <td>SRCNN</td> <td>VDSR</td> <td>RED-Net</td>
  </tr>
@@ -833,3 +836,7 @@ background-color: rgb(212, 209, 209);
 </div>
 </div>
 -->
+
+&nbsp;
+
+Please feel free to contact me at [htemiz@artvin.edu.tr](mailto:htemiz@artvin.edu.tr) for any further information.
