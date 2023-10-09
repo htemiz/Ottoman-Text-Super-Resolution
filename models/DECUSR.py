@@ -33,7 +33,7 @@ SCALE 4:
 settings = \
 {
 "activation": "relu",
-'augment':[], # must be any or all lof [90,180,270, 'flipud', 'fliplr', 'flipudlr' ]
+'augment':[], # any combination of [90,180,270, 'flipud', 'fliplr', 'flipudlr' ]
 'backend': 'tensorflow',
 'batchsize':256,
 'channels':3,
@@ -63,7 +63,7 @@ settings = \
 'scale':2,
 'seed': 19,
 'shuffle' : True,
-'stride':10, # adımın 72 nin 1/3 ü olmasını istiyoruz. yani 24. 4 ölçek için 6 adım çıkışta 24 eder.
+'stride':10, #
 'target_channels': 3,
 'target_cmode' : 'RGB',
 'testpath': [r'D:\calisma\projeler\ottoman\dataset\test'],
