@@ -43,7 +43,7 @@ can be re-trained by issuing similar command as below:
 
 To perform the test for an algorithm with pre-trained weights, without re-training, remove `--train` command parameter and include
 
-`--testpath <path to your test files> --weightpath <path to weight file(s)>` 
+`--testpath <path to your test file(s)> --weightpath <path to weight file(s)>` 
 
 PLease use the appropriate weights for a particular scale. 
 
