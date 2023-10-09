@@ -41,9 +41,9 @@ can be re-trained by issuing similar command as below:
 `python -m DeepSR.DeepSR --modelfile models/DECUSR.py --train --scale 2 
 --weightpath weights/DECUSR_2x.h5 `
 
-To test the algorithms, remove `--train` command parameter and include
+To perform the test for an algorithm with pre-trained weights, without re-training, remove `--train` command parameter and include
 
-`--testpath <path to your test files>` 
+`--testpath <path to your test files> --weightpath <path to weight file(s)>` 
 
 PLease use the appropriate weights for a particular scale. 
 
