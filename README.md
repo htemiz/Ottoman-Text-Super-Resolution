@@ -35,7 +35,8 @@ and [PyPI](https://pypi.org/project/DeepSR/) repository to download. To install 
 `pip install DeepSR`
 
 ## How To Run
-Each model files is of DeepSR-fashion file. They can be re-trained by issuing similar command as below:
+Each file contains a definition of an algorithm in [DeepSR](https://www.sciencedirect.com/science/article/pii/S2352711022001790) style. The algorithms
+can be re-trained by issuing similar command as below:
 (e.g., re-train DECUSR for 2x scale with pre-trained weights)
 `python -m DeepSR.DeepSR --modelfile models/DECUSR.py --train --scale 2 
 --weightpath weights/DECUSR_2x.h5 `
